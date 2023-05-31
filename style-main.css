@@ -1,0 +1,66 @@
+*{
+    font-family: 'Gelasio', serif;
+}
+
+body{
+    background-color: rgb(238, 208, 133);
+}
+
+h1{
+    color: black;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+hr{
+    margin-bottom: 65px;
+}
+
+.frame{
+    box-sizing: border-box;
+    width: 500px;
+    height: 500px;
+    background-color: #E8E8E8;
+    margin-bottom: 80px;
+    box-shadow: 8px 8px 0px rgb(169, 149, 99);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    font-size: 21px;
+    margin: 25px 0px 10px 34px;
+}
+
+p{
+    font-size: 12px;
+    text-align: justify;
+    margin: 0px 34px 16px 34px;
+}
+
+.frame img{
+    width: 100%;
+    height: 65%;
+}
+
+.link{
+    width: 50px;
+    height: 15px;
+    background-color: black;
+    border-radius: 2px;
+    text-decoration: none;
+    margin-left: 34px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.link a{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    
+}
